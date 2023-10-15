@@ -17,3 +17,6 @@
 
         int all = 中信银行欠款+兴业银行欠款+光大银行欠款;
         System.out.println(all);
+
+
+1
